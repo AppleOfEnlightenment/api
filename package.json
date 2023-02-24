@@ -2,8 +2,12 @@
   "name": "@AppleOfEnlightenment/api",
   "author": "Chia Network <hello@chia.net> (https://chia.net/)",
   "description": "Chia API Library",
-  "productName": "Chia Blockchain",
+  "productName": "Chia Blockchain GUI API",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AppleOfEnlightenment/api.git"
+  },
   "publishConfig": {                                                                   "registry": "https://npm.pkg.github.com/"                                       },
   "engines": {
     "node": ">=16.15.0"
